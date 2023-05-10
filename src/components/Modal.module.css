@@ -1,0 +1,12 @@
+.modal {
+  width: 700px;
+  height: 400px;
+  background-color: rgb(50, 50, 50);
+  position: absolute;
+  margin: 100px;
+}
+
+.modal button {
+  padding: 10px;
+  font-size: larger;
+}

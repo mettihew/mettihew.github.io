@@ -1,0 +1,17 @@
+.card {
+  width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 66px;
+  font-size: large;
+}
+
+.card p {
+  color: red;
+}
+
+.card button {
+  font-weight: bold;
+  font-size: large;
+}
