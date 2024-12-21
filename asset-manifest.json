@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccfab10c.css",
-    "main.js": "/static/js/main.5470705d.js",
+    "main.css": "/static/css/main.362af44c.css",
+    "main.js": "/static/js/main.b7b1ab59.js",
     "static/media/digi_banner.gif": "/static/media/digi_banner.c984c8b11f34f2d53a15.gif",
     "static/media/back2.jpg": "/static/media/back2.4d36865f92d63b2519a7.jpg",
     "static/media/soon2.webp": "/static/media/soon2.3cc855378539b54c5d02.webp",
@@ -19,11 +19,11 @@
     "static/media/add-cart.svg": "/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
     "static/media/wishlist.svg": "/static/media/wishlist.e2b76316c68ed8ae4128cca85f622430.svg",
     "static/media/user.svg": "/static/media/user.cd86e0566bbf017c8167249084d368e3.svg",
-    "main.ccfab10c.css.map": "/static/css/main.ccfab10c.css.map",
-    "main.5470705d.js.map": "/static/js/main.5470705d.js.map"
+    "main.362af44c.css.map": "/static/css/main.362af44c.css.map",
+    "main.b7b1ab59.js.map": "/static/js/main.b7b1ab59.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccfab10c.css",
-    "static/js/main.5470705d.js"
+    "static/css/main.362af44c.css",
+    "static/js/main.b7b1ab59.js"
   ]
 }
